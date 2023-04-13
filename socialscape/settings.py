@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tz_*$r#0^7x$3)wme+idzuzdh9!w-#(f)l8ig9+-4g6k0ac40^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['socialscape.onrender.com']
 
 
 # Application definition
